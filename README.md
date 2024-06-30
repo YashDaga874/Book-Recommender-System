@@ -1,6 +1,3 @@
-Sure, here's a template for the README file for your book recommender system:
-
----
 
 # Book Recommender System
 
@@ -74,11 +71,3 @@ After running the app, open your web browser and go to `http://localhost:5000`. 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template based on your project's specifics. If you need to add any additional information, let me know!
